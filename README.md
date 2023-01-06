@@ -1,5 +1,5 @@
 # Data-science-Projects
-Data Science Projects completed on DataCamp: 
+Data Science Projects completed on DataCamp- 
 Data visualization |
 Statistical and machine learning techniques |
 Hypothesis testing |
